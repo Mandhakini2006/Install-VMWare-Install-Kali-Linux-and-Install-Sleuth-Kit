@@ -100,6 +100,8 @@ not.
 <img width="751" height="376" alt="image" src="https://github.com/user-attachments/assets/e8b9f8f8-a13e-4d52-ae0e-3e040e31cfbc" />
 ● Lists files and directories
 <img width="746" height="377" alt="image" src="https://github.com/user-attachments/assets/a1b9e3ec-af87-433c-83fd-808605b660cd" />
+
+
 These are the some of the commands used in the Sleuth kit.
 ## RESULT:
 The setup and installation of VMware, Kali Linux, and Sleuth Kit was completed successfully.
